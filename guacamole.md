@@ -2,7 +2,6 @@
 *avocado 
 *lemon 
 *salt
-## Ingredients
-* imma boss 
+## Ingredients 
 * i think i get it
 
